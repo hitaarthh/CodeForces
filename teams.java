@@ -1,5 +1,6 @@
+/* Use this link to access this question on CodeForces: https://codeforces.com/problemset/problem/231/A*/
 import java.util.Scanner;
-public class competitive
+public class team
 {
     public static void main(String[] args)
     {
