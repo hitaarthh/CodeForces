@@ -1,3 +1,4 @@
+"""Use this link to view the ques on codeforces: https://codeforces.com/problemset/problem/231/A """
 n = int(input()) ; r = 0
 for i in range(n) : 
     a,b,c= map(int, input().split())
